@@ -7,7 +7,8 @@ A full-stack web application to manage projects, tasks, and team collaboration e
 ## 🌐 Live Demo
 
 Frontend : https://projectmanagentapp-frontend.onrender.com/
-Backedn : https://project-mgmt-backend-production-b1d3.up.railway.app/api/users/hello
+
+Backend : https://project-mgmt-backend-production-b1d3.up.railway.app/api/users/hello
 
 
 ---
