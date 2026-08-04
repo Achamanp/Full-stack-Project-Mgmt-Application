@@ -86,7 +86,8 @@ public class JwtAuthFilter extends OncePerRequestFilter {
             "/actuator/**",
             "/swagger-ui/**",
             "/v3/api-docs/**",
-            "/error"
+            "/error",
+            "/api/auth/forgot-password"
         };
 
         for (String endpoint : publicEndpoints) {
